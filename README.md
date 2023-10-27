@@ -23,7 +23,9 @@ macOS版下载地址：http://www.hostbuf.com/downloads/finalshell_install.pkg  
     wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 
 
-### 可参考的域名（手动选择方法）
+### 可参考的域名
+
+这里输入的域名最低标准为：国外网站，支持 TLSv1.3 、H2 、没有被阻断，千万不要写被阻断的网站。
 
     # Apple
     gateway.icloud.com
