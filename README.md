@@ -22,13 +22,6 @@ macOS版下载地址：http://www.hostbuf.com/downloads/finalshell_install.pkg  
 
     wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 
-### Reality寻找适合的目标网站
-
-查询ASN：https://tools.ipip.net/as.php
-
-寻找目标：https://fofa.info
-
-    asn=="25820" && country=="US" && port=="443" && cert!="Let's Encrypt" && cert.issuer!="ZeroSSL" && status_code="200"
 
 ### 可参考的域名（手动选择方法）
 
