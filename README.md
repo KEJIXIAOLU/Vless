@@ -3,6 +3,8 @@
 
 为了应对 TLS in TLS 和指纹识别等阻断或封禁的风险，Xray-core 团队推出了 VLESS Vision 和 VLESS Reality 两种新颖的技术方案。它们能够有效地隐藏和保护流量的特征，提高安全性和稳定性。
 
+### Youtube视频教程：https://youtu.be/ha4XB13gAeU
+
  ## 一、准备工作
 
   ### 1、一台境外VPS主流系统，例如：Debian/Ubuntu/CentOS
